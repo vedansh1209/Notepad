@@ -17,9 +17,9 @@ javac Notepad.java
 java Notepad
 ```
 
-Screenshots
+##Screenshots
 ![image](https://github.com/vedansh1209/Notepad/assets/143615585/01bde8ba-0035-43de-b792-fa2bfff4e7e8)
 
 
-Contributing
+##Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request.

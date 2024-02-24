@@ -15,6 +15,8 @@ To run the Notepad application, compile and execute the `Notepad.java` file.
 ```bash
 javac Notepad.java
 java Notepad
+```
+
 Screenshots
 ![image](https://github.com/vedansh1209/Notepad/assets/143615585/01bde8ba-0035-43de-b792-fa2bfff4e7e8)
 
